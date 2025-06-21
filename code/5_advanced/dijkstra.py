@@ -1,7 +1,7 @@
 """
 Dijkstra's Shortest Path Algorithm
 ==================================
-Advanced graph algorithm for finding shortest paths in weighted graphs.
+Advanced graph algorithm for finding shortest paths in weighted graphs!
 """
 
 import heapq

@@ -492,20 +492,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgments
-
-- **Visual Learning**: Inspired by the best computer science education resources
-- **Real Examples**: Based on practical problems from industry
-- **Community**: Built with feedback from learners worldwide
-
----
-
 ## 🚀 Start Your Graph Journey!
 
 ```bash

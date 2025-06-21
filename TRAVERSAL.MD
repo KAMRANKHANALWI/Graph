@@ -4,6 +4,8 @@
 [![Algorithms](https://img.shields.io/badge/Algorithms-DFS%20%7C%20BFS-green.svg)]()
 [![Visual Learning](https://img.shields.io/badge/Learning-Visual-orange.svg)]()
 
+## Traversal, Let's do it
+
 > **Master the two fundamental graph traversal algorithms with step-by-step visualizations and practical implementations.**
 
 ---

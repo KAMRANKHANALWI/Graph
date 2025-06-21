@@ -1,7 +1,7 @@
 """
 Minimum Spanning Tree
 ====================================
-Learn how to connect all points with minimum cost.
+Learn how to connect all points with minimum cost!
 """
 
 

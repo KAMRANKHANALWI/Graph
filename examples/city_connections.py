@@ -1,7 +1,7 @@
 """
 City Connections Example
 ========================
-Simple example showing how cities connect via roads, flights, etc.
+Example showing how cities connect via roads, flights, etc.
 """
 
 from collections import deque
